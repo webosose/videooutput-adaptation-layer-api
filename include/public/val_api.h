@@ -25,6 +25,7 @@
 typedef enum {
     VAL_DEV_UNDEFINED = -1,
     VAL_DEV_RPI,
+    VAL_DEV_MOCK,
     VAL_DEV_MAX
 } VAL_DEVICE_TYPE_T;
 
