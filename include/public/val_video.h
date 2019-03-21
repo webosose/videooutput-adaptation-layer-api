@@ -18,7 +18,7 @@
 #define VAL_VIDEO_API_H
 
 #include "val_common.h"
-#include <ls2-helpers/ls2-helpers.hpp>
+#include <pbnjson.hpp>
 #include <string>
 #include <vector>
 
